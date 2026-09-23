@@ -1,0 +1,5 @@
+Q1: Why might we consider using Git?
+
+Answer: Git can allow you to document updates and modifications to when working on a project. 
+It is also very useful for working on a team, so you can access and merge work done by all
+group members. 
