@@ -17,3 +17,7 @@ Answer: Merging preserves the history as it takes place, through creating new co
 is being merged. While rebasing, rewrites the history to create a more clean and linear 
 sequence of events. 
 
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to gaining more hands on experience with data science. And to
+build a solid fondation utilizing data science principles and techniques.
